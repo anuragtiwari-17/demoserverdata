@@ -1,0 +1,40 @@
+{
+    "singers": [
+        {
+            "name": "Arijit Singh",
+            "photo": "https://lastfm.freetls.fastly.net/i/u/ar0/bb3843bfab8279d6cb10f58d3d2a3fe4.jpg"
+        },
+        {
+            "name": "Ed Sheeran",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ed_Sheeran_2013.jpg/384px-Ed_Sheeran_2013.jpg"
+        },
+        {
+            "name": "Dua Lipa",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Dua_Lipa-0811.jpg"
+        },
+        {
+            "name": "Arina Grande",
+            "photo": "https://cdn.britannica.com/92/211792-050-E764F875/American-singer-Ariana-Grande-2018.jpg"
+        },
+        {
+            "name": "Charlie Puth",
+            "photo": "https://images.hdqwalls.com/wallpapers/charlie-puth-2018-9c.jpg"
+        },
+        {
+            "name": "Sia",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sia_Seattle_%28cropped%29.jpg/760px-Sia_Seattle_%28cropped%29.jpg"
+        },
+        {
+            "name": "Mohit Chauhan",
+            "photo": "https://i.pinimg.com/564x/7d/40/11/7d401150cf1db9098d68f87926850ae7.jpg"
+        },
+        {
+            "name": "Stebin Ben",
+            "photo": "https://i.pinimg.com/564x/0c/44/6f/0c446f153b7de5566f67e0dc8ae24ed1.jpg"
+        },
+        {
+            "name": "Chris Brown",
+            "photo": "https://i.pinimg.com/564x/6a/a8/d4/6aa8d46b0b555819244959f9a7a6cc50.jpg"
+        }
+    ]
+}
